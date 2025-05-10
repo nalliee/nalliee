@@ -3,7 +3,7 @@
 </h1>
 
 - 🌱 I’m currently learning PostgreSQL in DataLemur
-- 🤔 I’m looking for help with Data Analyst or Data Scientist to deeper my knowledge of data
+- 🤔 I’m looking for help with Data Analyst or Data Scientist to get insights on data
 - 💬 Ask me about anything related to data analysis
 - ⚡ Fun fact: Although I love working with data, but I'm also a pet lover
 
