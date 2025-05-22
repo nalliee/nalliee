@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=3B6D9D&duration=5000&lines=Hi+,+There!+👋;" />
 </h1>
 
-- 🌱 I’m currently learning PostgreSQL in DataLemur
+- 🌱 I’m currently working on datasets using PostgreSQL
 - 🤔 I’m looking for help with Data Analyst or Data Scientist to get insights on data
 - 💬 Ask me about anything related to data analysis
 - ⚡ Fun fact: Although I love working with data, but I'm also a pet lover
